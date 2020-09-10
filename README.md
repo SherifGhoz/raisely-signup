@@ -1,5 +1,7 @@
 # Raisely
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d081aed8-079d-43b3-8c78-143bd78b4538/deploy-status)](https://app.netlify.com/sites/raisely-task/deploys)
+
 ## Build Setup
 
 ```bash
